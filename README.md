@@ -5,7 +5,7 @@
  - [Demo](https://themewagon.github.io/landwind/)
 
 #### Download
- - [Download from ThemeWagon]( https://themewagon.com/themes/crypgo)
+ - [Download from ThemeWagon]( https://themewagon.com/themes/landwind/)
  
  
 ## Getting Started
