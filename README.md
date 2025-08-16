@@ -5,7 +5,7 @@
  - [Demo](https://themewagon.github.io/landwind/)
 
 #### Download
- - [Download from ThemeWagon]( https://themewagon.com/themes/landwind/)
+ - [Download from ThemeWagon]( https://themewagon.com/themes/landwind-free-responsive-tailwindcss-landing-page-template/)
  
  
 ## Getting Started
